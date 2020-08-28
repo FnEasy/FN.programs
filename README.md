@@ -40,7 +40,7 @@ Step 7.
 Enjoy the bot! For a full list of commands, check out the Command Wiki
 Deployment
 
-If it prompts for an authorization code, get the code from here
+If it prompts for an authorization code, get the code from https://github.com/KaosDrip/Xensis/wiki/Authorization-Code
 
 If you have any other issues / questions, feel free to join our Discord server or check out the FAQ
 
